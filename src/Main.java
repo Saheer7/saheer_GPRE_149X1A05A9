@@ -73,14 +73,7 @@ public class Main {
 		      }
 		      
 		}
-		catch(IllegalArgumentException e)
-		{
-		      System.out.println("Exception Caught");;
-		}
-		catch(Exception e)
-		{
-		      System.out.println("Exception Caught");;
-		}
+		
 	}
 
 }
